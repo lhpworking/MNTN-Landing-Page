@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'CD-B';
+    src: url('../assets/fonts/ChronicleDisplay-Black.woff2') format('woff2'),
+        url('../assets/fonts/ChronicleDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'CD-l-i';
+    src: url('../assets/fonts/ChronicleDisplay-LightItalic.woff2') format('woff2'),
+        url('../assets/fonts/ChronicleDisplay-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'CD';
+    src: url('../assets/fonts/ChronicleDisplay-Roman.woff2') format('woff2'),
+        url('../assets/fonts/ChronicleDisplay-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'CD-S';
+    src: url('../assets/fonts/ChronicleDisplay-Semi.woff2') format('woff2'),
+        url('../assets/fonts/ChronicleDisplay-Semi.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'G-l';
+    src: url('../assets/fonts/Gilroy-Light.woff2') format('woff2'),
+        url('../assets/fonts/Gilroy-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'G-EB';
+    src: url('../assets/fonts/Gilroy-ExtraBold.woff2') format('woff2'),
+        url('../assets/fonts/Gilroy-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
